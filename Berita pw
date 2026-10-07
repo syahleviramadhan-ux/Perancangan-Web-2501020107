@@ -1,0 +1,104 @@
+<html>
+
+<head>
+    <title>Berita Lapas Cibinong</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+</head>
+
+<body>
+    
+
+    <!-- Judul Berita -->
+    <h1 align="center">
+        <font face="Georgia" color="1E4E8C">
+            Klaster Mewah Lapas Cibinong Dibongkar,<br>
+            Ombudsman Harap Tak Ada Masalah Baru
+        </font>
+    </h1>
+
+
+    <!-- Penulis dan Tanggal -->
+    <p align="center">
+        <small>
+            Syah Levi Rayyan Ramadhan - Penulis<br>
+            Kamis, 1 Oktober 2026 07.21 WIB
+        </small>
+    </p>
+
+
+    <!-- Gambar Utama -->
+    <p align="center">
+        <img src="g1.jpeg" width="410" height="230">
+    </p>
+
+
+    <!-- Isi Berita -->
+    <p align="center">
+
+        Jakarta - Ombudsman Republik Indonesia (ORI) berharap
+        pembongkaran bangunan dan fasilitas mewah di Lapas Kelas IIA
+        Cibinong, Bogor, Jawa Barat (Jabar), dilakukan sesuai ketentuan
+        hukum. Ombudsman mengingatkan agar penertiban tersebut tidak
+        menimbulkan persoalan baru di kemudian hari.
+
+    </p>
+
+
+   <p align="center">
+
+        "Kami tentu berharap pembongkaran dilakukan sesuai ketentuan
+        hukum dan tata kelola yang berlaku. Jangan sampai langkah
+        penertiban yang dimaksudkan untuk menyelesaikan persoalan justru
+        menimbulkan persoalan hukum baru di kemudian hari," kata anggota
+        Ombudsman, Manager Nasution, kepada wartawan, Kamis (1/9/2026).
+
+    </p>
+<h2>contoh forms</h2>
+<form>
+    <input type="text">
+</form>
+<br><br>
+<form>
+    <label for="nama_id">Nama</label><br>
+</form>
+<br><br>
+<form action="#">
+    <label for="nama_id"></label><br>
+    <label type="email" name="nama_variabel" id="nama_id" placeholder="@email.com">
+    <br>
+    <label for="nama_id"></label><br>
+    </label>
+</form>
+    
+
+
+
+
+    <!-- Dokumentasi -->
+    <h3>
+        Dokumentasi Berita
+    </h3>
+
+
+    <p align="center">
+
+        <img src="g2.jpeg" width="270" height="155">
+
+        <img src="g3.jpeg" width="270" height="155">
+
+    </p>
+
+
+    <!-- Garis -->
+    <hr>
+
+
+    <!-- Footer -->
+    <p align="center">
+        Syah Levi Rayyan Ramadhan_2501020107_2026
+    </p>
+
+</body>
+
+</html>
